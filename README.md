@@ -68,7 +68,7 @@ This project is provided under the [MIT License](LICENSE). You are free to use, 
 
 Enjoy using the Confession Page to Discord Webhook! If you encounter any issues or have suggestions for improvement, please feel free to reach out and make this project even better.
 
-Screenshot
+## Screenshot
 
 ![Screenshot](https://github.com/Untimed1497/ConfiPage/assets/143932701/493620f1-3545-4a18-91d6-c63e00ff9fce)
 
