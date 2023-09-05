@@ -2,7 +2,7 @@
 Confession Page to Discord Webhook
 Confession Page to Discord Webhook
 
-#ETHICS
+ETHICS
 Please be aware that this program's purpose is to inform people about the potential outcomes of engaging with "confession pages." I want to clarify that I am not accountable for any misuse of this program.
 
 Introduction
