@@ -1,20 +1,12 @@
 # ConfiPage
-Confession Page to Discord Webhook
-Confession Page to Discord Webhook
 
-ETHICS
+# Confession Page to Discord Webhook
+
+
+## ETHICS
 
 Please be aware that this program's purpose is to inform people about the potential outcomes of engaging with "confession pages." I want to clarify that I am not accountable for any misuse of this program.
 
-Introduction
-
-The Confession Page to Discord Webhook is a simple HTML page that allows users to  send confessions with their username to a Discord server using a Discord webhook. This project is designed for online communities, forums, or websites where users can submit their confessions with usernames(Will not be know to the user), and these confessions are then posted to a specific Discord channel for you to see.
-
-How It Works
-
-This project consists of a single HTML file that you can host on any web server. Users can access this HTML page through their web browsers. When a user submits a confession, the confession is sent to a Discord server using a Discord webhook . 
-
-# Confession Page to Discord Webhook
 
 ## Introduction
 
